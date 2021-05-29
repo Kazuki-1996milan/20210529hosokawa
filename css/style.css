@@ -1,0 +1,47 @@
+body {
+  width: 1000px;
+}
+header {
+  width: 1000px;
+  height: 100px;
+  margin: 0 auto;
+}
+#title{
+  float: left;
+  margin: 20px 0 0 20px;
+  font-size: 20px;
+  color: navy;
+}
+#global_navi{
+  float: right;
+  margin: 20px 20px 0 0;
+  font-weight: bold;
+  color: navy;
+}
+#global_navi li {
+  float: left;
+  margin: 0 10px;
+}
+#wrapper {
+  clear: both;
+  width: 1000px;
+  margin: 0 auto;
+}
+#wrapper img {
+  float: right;
+  width: 55%;
+  height: auto;
+}
+#wrapper h2 {
+  clear: both;
+  display: inline-block;
+  width: 40%;
+  font-size: 55px;
+  font-weight: normal;
+  margin-top: 250px;
+}
+.box {
+  width: 70%;
+  height: 170px;
+  background-color: navy;
+}
